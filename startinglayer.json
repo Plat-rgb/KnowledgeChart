@@ -32,7 +32,18 @@
 		"expandedSubtechniques": "none"
 	},
 	"hideDisabled": false,
-	"techniques": [],
+	"techniques": [
+		{
+			"techniqueID": "T1046",
+			"tactic": "discovery",
+			"color": "#fc6b6b",
+			"comment": " Use of NMAP to discover open ports",
+			"enabled": true,
+			"metadata": [],
+			"links": [],
+			"showSubtechniques": false
+		}
+	],
 	"gradient": {
 		"colors": [
 			"#ff6666ff",
